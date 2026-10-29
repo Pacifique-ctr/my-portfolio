@@ -1,0 +1,17 @@
+body {
+    background-color:lightblue;
+    font-family:Arial,sans-serif;
+    margin:0;
+    color:#223;
+    
+    line-height:1.6;
+    padding: 30px;
+    text-align: centre;
+    }
+    
+    h1 {
+      color:navy;
+        padding: 30px;
+      text-align:centre;
+      
+  }
